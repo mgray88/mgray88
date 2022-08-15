@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I do many different things
+
+<figure><embed src="https://wakatime.com/share/@b32cc73f-8ff3-45f2-8f5f-6d94d18bd2fa/c2321554-2b5d-4293-8cdc-86f099a978ce.svg"></embed></figure>
