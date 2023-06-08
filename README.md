@@ -19,4 +19,4 @@ I do many different things
 
 <figure><img src="https://wakatime.com/share/@b32cc73f-8ff3-45f2-8f5f-6d94d18bd2fa/c2321554-2b5d-4293-8cdc-86f099a978ce.svg" /></figure>
 
-(Xcode doesn't support gathering data for this, so the Swift percentage is quite a bit undercounted)
+(Wakatime has recently started supporting gathering data from Xcode, so the Swift percentage is quite a bit undercounted)
