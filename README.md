@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I do many different things
+#### I do many different things
+- 🔭 I’m currently working on _too much work_
+- 🌱 I’m currently learning _AWS_
+- 💬 Ask me about _RxSwift_ || _Perl_
+- 📫 How to reach me: [about.me/mgray88](https://about.me/mgray88)
+- 😄 Pronouns: _he/him_
+
+### Some stats!
 
 <figure><img src="https://wakatime.com/share/@b32cc73f-8ff3-45f2-8f5f-6d94d18bd2fa/c2321554-2b5d-4293-8cdc-86f099a978ce.svg" /></figure>
 
